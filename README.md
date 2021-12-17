@@ -17,8 +17,13 @@ This game is won based on different level that the player choose, player can con
 
 ##### Requirement:
 Python 3 installation is required in your system for the execution of this program.
-#####How to run the program:
+
+
+
+##### How to run the program:
 Open your terminal or command line interface at the folder where the script of the program is, and run the following:
+
+![屏幕快照 2021-12-16 下午5 52 25](https://user-images.githubusercontent.com/96209982/146470025-5d0f0544-f71e-47f9-9377-f5f200d5e00c.png)
 
 Once you open the file, you can see four different difficulty levels, players can choose any level they like and start this game by moving tile. Player will use the arrow keys to move the tiles on the board. If two tiles with the same value collide, then they will merge into one tile with total value of the two tiles. Game ends when there are no more possible moves left.
 
